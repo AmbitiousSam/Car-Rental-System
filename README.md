@@ -17,4 +17,3 @@
 ##### 5. In the server terminal type ***`npm start`*** to start the server #####
 ##### 6. In the client terminal type ***`npm start`*** to start the app #####
 
-###### 🚗 *Enjoy renting cars !!* 🚗 ######

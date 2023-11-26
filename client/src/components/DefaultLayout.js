@@ -62,9 +62,9 @@ const DefaultLayout = (props) => {
 
       <div className="footer text-center">
         <hr />
-        <p style={{ textAlign: "center" }}>Design&Developed By</p>
+        {/* <p style={{ textAlign: "center" }}>Design&Developed By</p> */}
         <p style={{ textAlign: "center", fontSize: "20px" }}>
-          <b>Hanan</b>
+          <b>Car Rental System</b>
         </p>
       </div>
     </div>
